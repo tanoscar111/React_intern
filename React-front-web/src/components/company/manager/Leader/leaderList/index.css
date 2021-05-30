@@ -1,0 +1,19 @@
+
+
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    color: aquamarine;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+
+.avatar-uploader > .ant-upload {
+    width: 128px;
+    height: 128px;
+}
